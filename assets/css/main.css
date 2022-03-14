@@ -1668,3 +1668,11 @@ input, select, textarea {
 	height: 30%;
 }
 
+.pets {
+	height: 300px;
+	width: 500px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;	
+	padding-bottom: 5%;
+}
